@@ -1,0 +1,50 @@
+LoginViewModelTest
+a. Ketika login berhasil
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+b. Ketika login gagal
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Error.
+
+RegisterViewModelTest
+a. Ketika register berhasil
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+b. Ketika register gagal
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Error.
+
+MainViewModelTest
+a. Ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan data sesuai dengan yang diharapkan.
+    - Memastikan ukuran data sesuai dengan yang diharapkan.
+    - Memastikan data nama sama dengan yang diharapkan.
+
+MapsViewModelTest
+a. Ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+AddViewModelTest
+a. Ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan mengembalikan Response.Success.
+    - Memastikan data sesuai dengan yang diharapkan.
+
+DateFormatterTest
+a. Ketika format yang diberikan sesuai dengan ISO 8601
+- memastikan tanggal dan jam yang diharapkan sesuai dengan timezone Asia/Jakarta
+- memastikan tanggal dan jam yang diharapkan sesuai dengan timezone Asia/Makassar
+- memastikan tanggal dan jam yang diharapkan sesuai dengan timezone Asia/Jayapura
+
+b. Ketika format yang diberikan sesuai dengan ISO 8601
+- Memastikan mengembalikan error saat format yang diberikan salah
+
+c. Ketika format timezone tidak sesuai
+- Memastikan mengembalikan error saat timezone yang diberikan tidak sesuai

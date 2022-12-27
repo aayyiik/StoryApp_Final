@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/drawable/backg_save.xml" value="0.1025" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/drawable/bcg_description.xml" value="0.1025" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_add_story.xml" value="0.22" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_detail_stories.xml" value="0.18" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_maps.xml" value="0.16" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_splahs.xml" value="0.19692307692307692" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_splash_end.xml" value="0.25" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/activity_splash_welcome.xml" value="0.22" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/item_list_location.xml" value="0.22" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/item_loading.xml" value="0.19895833333333332" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/layout/item_stories_row.xml" value="0.33" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/menu/menu_bottom.xml" value="0.19583333333333333" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/menu/menu_maps.xml" value="0.10092592592592593" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/xml/file_paths.xml" value="0.2" />
+        <entry key="..\:/SEMESTER KULIAH/Semester 5/Proyek Submission/StoryApp/app/src/main/res/xml/motion_scene_splash.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
